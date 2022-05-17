@@ -1,10 +1,6 @@
 <html>
    <body>
-   <a href="#">
-      <img align="center" src="./assets/top.png" alt="My Github Stats">
-   </a>
-
-   <h1 align="center">BIO</h1>
+      <h1 align="center">BIO</h1>
    <h3 align="center">
       Sou um aspirante a Programador e meio Marketeiro, desvendando o mundo da programação e tecnologia.
       <br /><br />
@@ -64,8 +60,6 @@
       </a>
    </div>
 
-   <a href="#">
-      <img align="center" src="./assets/bottom.png" alt="My Github Stats">
-   </a>
+   
    </body>
 </html>
