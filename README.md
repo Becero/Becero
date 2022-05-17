@@ -49,16 +49,16 @@
 
    <h1 align="center">CONTACT ME</h1>
    <div align="center">
-      <a target="_blank" href="https://www.linkedin.com/in/heltonricardo/">
+      <a target="_blank" href="https://www.linkedin.com/in/luis-guilherme-ferreira-505285b8/">
          <img src="./assets/linkedin.svg" width="40" height="40"/>
       </a>
-      <a target="_blank" href="mailto:helton_ricardo13@hotmail.com">
+      <a target="_blank" href="mailto:guilherme.becel@gmail.com">
          <img src="./assets/outlook.svg" width="40" height="40"/>
       </a>
-      <a target="_blank" href="https://www.instagram.com/helton.x/">
+      <a target="_blank" href="https://www.instagram.com/luis_BECEL/">
          <img src="./assets/instagram.svg" width="40" height="40"/>
       </a>
-      <a target="_blank" href="https://heltonricardo.github.io/">
+      <a target="_blank" href="https://Becero.github.io/">
          <img src="./assets/website.svg" width="40" height="40"/>
       </a>
    </div>
