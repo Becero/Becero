@@ -6,10 +6,11 @@
 
    <h1 align="center">BIO</h1>
    <h3 align="center">
-      Sou um entusiasta de TI aspirando a aprender e difundir muito na área de tecnologia.
+      Sou um aspirante a Programador e meio Marketeiro, desvendando o mundo da programação e tecnologia.
       <br /><br />
       Atualmente estou cursando Análise e Desenvolvimento de Sistemas, aprimorando meu
-      carreira para cumprir minhas ambições trabalhando na área de Desenvolvimento de Software.
+      carreira para cumprir minhas ambições.
+      Sou Técnico em RH, também atuo na área de E-commerce há alguns anos.
    </h3>
    <br />
 
