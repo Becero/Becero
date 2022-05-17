@@ -12,10 +12,7 @@
 
    <div align="center" style="display:inline-block">
       <h1>SKILLS</h1>
-      <a href="https://github.com/search?q=user%3ABecero+c">
-         <img height="70" title="C" src="./assets/c.svg">
-      </a>
-       <a href="https://github.com/search?q=user%3ABecero+css">
+      <a href="https://github.com/search?q=user%3ABecero+css">
        <img height="70" title="CSS3" src="./assets/css.svg">
       </a>
        <a href="https://github.com/Becero?tab=repositories&language=html">
