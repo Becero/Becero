@@ -13,7 +13,7 @@
    <div align="center" style="display:inline-block">
       <h1>SKILLS</h1>
       <a href="https://github.com/search?l=C&q=user%3Becero&type=Repositories">
-        <img height="70" src="assets/csharp.svg" title="CH" width="40" height="40"/>
+        <img height="70" src="<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="100" height="100" alt="csharp logo"> title="C#" width="40" height="40"/>
       <a href="https://github.com/search?q=user%3ABecero+css">
        <img height="70" title="CSS3" src="./assets/css.svg">
       </a>
