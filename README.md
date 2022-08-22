@@ -6,9 +6,9 @@
       <br /><br />
       Atualmente estou cursando Análise e Desenvolvimento de Sistemas, aprimorando meu
       carreira para cumprir minhas ambições.
-      Sou Técnico em RH, também atuo na área de E-commerce há alguns anos.
+      Sou Técnico em RH,também atuo na área de E-commerce há alguns anos.
    </h3>
-   <br />
+   <br/>
 
    <div align="center" style="display:inline-block">
       <h1>SKILLS</h1>
@@ -26,7 +26,7 @@
          <img height="70" title="Svelte" src="./assets/svelte.svg">
       </a>
      </div>
-   <br />
+   <br/>
 
    <div align="center">
       <h1>MY GITHUB</h1>
