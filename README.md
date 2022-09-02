@@ -14,6 +14,7 @@
       <h1>SKILLS</h1>
      <a href="https://github.com/search?l=C&q=user%3Becero&type=Repositories">
         <img height="70" title="C" src="assets/c.svg" title="C"/>
+      <img  height="70" title="C#" src="assets/c-sharp.svg"/>  
       <a href="https://github.com/search?q=user%3ABecero+css">
        <img height="70" title="CSS3" src="./assets/css.svg">
       </a>
