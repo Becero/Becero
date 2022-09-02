@@ -11,23 +11,32 @@
    <br/>
 
    <div align="center" style="display:inline-block">
-      <h1>SKILLS</h1>
-     <a href="https://github.com/search?l=C&q=user%3Becero&type=Repositories">
+      <h1>Habilidades</h1>
+       <a href="https://github.com/search?l=C&q=user%3Becero&type=Repositories">
         <img height="70" title="C" src="assets/c.svg" title="C"/>
-      <img  height="70" title="C#" src="assets/c-sharp.svg"/>  
-      <a href="https://github.com/search?q=user%3ABecero+css">
-       <img height="70" title="CSS3" src="./assets/css.svg">
-      </a>
-       <a href="https://github.com/Becero?tab=repositories&language=html">
-       <img height="70" title="HTML5" src="./assets/html.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3ABecero+javascript">
+       </a>    
+       <a href="#">
+         <img height="70"src="https://raw.githubusercontent.com/WendiRamos/WendiRamos/main/assets/c-sharp.svg" title="C#" />
+       </a>
+       <a href="#">
+         <img height="70" title="CSS3" src="./assets/css.svg">
+       </a>
+       <a href="#">
+         <img height="70" title="HTML5" src="./assets/html.svg">
+       </a>
+       <a href="#">
          <img height="70" title="JavaScript" src="./assets/js.svg">
-      </a>
-        <a href="https://github.com/search?q=user%3ABecero+svelte">
+       </a>
+       <a href="#">
          <img height="70" title="Svelte" src="./assets/svelte.svg">
+       </a>
+       <a href="#">
+        <img height="70" title="Visual Studio" src="https://raw.githubusercontent.com/WendiRamos/WendiRamos/main/assets/visual-studio.svg"  />
+       </a>
+      <a href="#">
+         <img height="70" title="VS Code" src="https://raw.githubusercontent.com/WendiRamos/WendiRamos/main/assets/visual-studio-code.svg"  height="50"/>
       </a>
-     </div>
+   </div>
    <br/>
 
    <div align="center">
