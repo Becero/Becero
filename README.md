@@ -30,15 +30,8 @@
        <a href="#">
          <img height="70" title="Svelte" src="./assets/svelte.svg">
        </a>
-      /* <a href="#">
-        <img height="70" title="Visual Studio" src="https://raw.githubusercontent.com/WendiRamos/WendiRamos/main/assets/visual-studio.svg"  />
-       </a>
-      <a href="#">
-         <img height="70" title="VS Code" src="https://raw.githubusercontent.com/WendiRamos/WendiRamos/main/assets/visual-studio-code.svg"  height="50"/>
-      </a>
-   </div>
-   <br/>
-*/
+    </div>
+  
    <div align="center">
       <h1>MY GITHUB</h1>
       <a href="https://github.com/Becero?tab=repositories">
