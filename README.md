@@ -2,13 +2,16 @@
   <h1>BIO</h1>
 
   <p style="max-width: 900px; font-size: 16px; line-height: 1.6;">
-    Sou <strong>Desenvolvedor Full Stack</strong> (C# / ASP.NET Core / Angular / SQL Server) e tenho background em
-    <strong>marketing</strong> e <strong>e-commerce</strong>, o que me ajuda a construir soluções focadas em produto,
-    performance e experiência do usuário.
+    Sou <strong>Desenvolvedor Full Stack</strong> com atuação em
+    <strong>C#, ASP.NET Core, Angular, TypeScript e SQL Server</strong>.
+    Possuo formação em <strong>Análise e Desenvolvimento de Sistemas</strong> e
+    experiência prática em desenvolvimento, manutenção e modernização de sistemas
+    web corporativos.
     <br /><br />
-    Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e venho atuando com modernização de
-    aplicações (migração de <strong>AngularJS</strong> para <strong>Angular</strong>), integração com APIs e rotinas de
-    banco de dados (procedures, regras de negócio e queries).
+    Tenho background em <strong>marketing</strong> e <strong>e-commerce</strong>,
+    o que contribui para uma visão mais ampla de produto, negócio e experiência do usuário.
+    Atualmente trabalho com APIs, integrações, regras de negócio complexas,
+    manutenção de sistemas legados e migração de aplicações para arquiteturas mais modernas.
   </p>
 </div>
 
