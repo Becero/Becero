@@ -22,19 +22,13 @@
 
   <div>
     <img height="42" alt="C#" title="C#" src="https://raw.githubusercontent.com/WendiRamos/WendiRamos/main/assets/c-sharp.svg" />
-    <img height="42" alt="C" title="C" src="assets/c.svg" />
+    <img height="42" alt="C" title="C" src="./assets/c.svg" />
     <img height="42" alt="HTML5" title="HTML5" src="./assets/html.svg" />
     <img height="42" alt="CSS3" title="CSS3" src="./assets/css.svg" />
     <img height="42" alt="JavaScript" title="JavaScript" src="./assets/js.svg" />
     <img height="42" alt="Svelte" title="Svelte" src="./assets/svelte.svg" />
-
-    <!-- Angular -->
-    <img height="42" alt="Angular" title="Angular"
-      src="https://cdn.simpleicons.org/angular/DD0031" />
-
-    <!-- SQL Server -->
-    <img height="42" alt="SQL Server" title="SQL Server"
-      src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+    <img height="42" alt="Angular" title="Angular" src="https://cdn.simpleicons.org/angular/DD0031" />
+    <img height="42" alt="SQL Server" title="SQL Server" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
   </div>
 
   <p>
