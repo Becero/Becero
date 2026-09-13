@@ -1,83 +1,125 @@
 <div align="center">
-  <h1>BIO</h1>
 
-  <p>
-    Sou <strong>Desenvolvedor Full Stack</strong> com atuação em
-    <strong>C#, ASP.NET Core, Angular, TypeScript e SQL Server</strong>.
-    Possuo formação em <strong>Análise e Desenvolvimento de Sistemas</strong> e
-    experiência prática em desenvolvimento, manutenção e modernização de sistemas
-    web corporativos.
-    <br /><br />
-    Tenho background em <strong>marketing</strong> e <strong>e-commerce</strong>,
-    o que contribui para uma visão mais ampla de produto, negócio e experiência do usuário.
-    Atualmente trabalho com APIs, integrações, regras de negócio complexas,
-    manutenção de sistemas legados e migração de aplicações para arquiteturas mais modernas.
-  </p>
+# Luis Guilherme
+
+### Desenvolvedor Full Stack | C# • .NET • Angular • TypeScript • SQL Server
+
 </div>
 
-<hr />
+---
+
+## Sobre mim
+
+Sou **Desenvolvedor Full Stack** com experiência no desenvolvimento e manutenção de aplicações web corporativas utilizando principalmente **C#, .NET, ASP.NET Core, Angular, TypeScript e SQL Server**.
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e possuo pós-graduação na área de **Engenharia da Computação**.
+
+Atualmente trabalho com:
+
+- desenvolvimento e manutenção de APIs REST;
+- aplicações com **ASP.NET Core e Angular**;
+- regras de negócio e integrações;
+- SQL Server, queries, procedures e functions;
+- manutenção e evolução de sistemas existentes;
+- autenticação e autorização;
+- arquitetura de aplicações;
+- Git e versionamento de código.
+
+Também possuo experiência anterior com **e-commerce, marketing digital e infraestrutura de TI**, o que contribui para uma visão mais ampla de produto, negócio e experiência do usuário.
+
+Atualmente também tenho estudado **Docker, cloud, CI/CD e inglês**, buscando ampliar minha experiência em desenvolvimento e arquitetura de software.
+
+---
+
+## Stack principal
 
 <div align="center">
-  <h2>Stack e Habilidades</h2>
 
-  <div>
-    <img height="42" alt="C#" title="C#" src="https://raw.githubusercontent.com/WendiRamos/WendiRamos/main/assets/c-sharp.svg" />
-    <img height="42" alt="C" title="C" src="./assets/c.svg" />
-    <img height="42" alt="HTML5" title="HTML5" src="./assets/html.svg" />
-    <img height="42" alt="CSS3" title="CSS3" src="./assets/css.svg" />
-    <img height="42" alt="JavaScript" title="JavaScript" src="./assets/js.svg" />
-    <img height="42" alt="Svelte" title="Svelte" src="./assets/svelte.svg" />
-    <img height="42" alt="Angular" title="Angular" src="https://cdn.simpleicons.org/angular/DD0031" />
-    <img height="42" alt="SQL Server" title="SQL Server" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
-  </div>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-  <p>
-    <strong>Foco atual:</strong> ASP.NET Core (Web API), C#, Angular (TypeScript),
-    integrações HTTP, autenticação, manutenção de sistemas legados,
-    e SQL Server (procedures, regras e performance).
-  </p>
 </div>
 
-<hr />
+### Ferramentas e tecnologias
 
 <div align="center">
-  <h2>GitHub</h2>
 
-  <a href="https://github.com/Becero?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Becero&layout=compact&theme=algolia"
-      alt="Linguagens mais utilizadas"
-    />
-  </a>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-  <br /><br />
-
-  <a href="https://github.com/Becero?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Becero&show_icons=true&theme=algolia"
-      alt="Status do GitHub"
-    />
-  </a>
 </div>
 
-<hr />
+---
+
+## Projeto em destaque
+
+### Forjix
+
+Sistema web de gestão comercial desenvolvido com arquitetura multiempresa.
+
+**Principais tecnologias:**
+
+- C# / .NET 10
+- ASP.NET Core
+- Angular
+- TypeScript
+- Entity Framework Core
+- SQL Server / Azure SQL
+- Docker
+- Render
+
+**Principais módulos:**
+
+- produtos e categorias;
+- estoque e movimentações;
+- clientes;
+- fornecedores;
+- compras;
+- vendas e PDV;
+- caixa;
+- dashboard;
+- relatórios;
+- usuários, grupos e permissões;
+- auditoria;
+- configurações da empresa.
+
+---
+
+## GitHub
 
 <div align="center">
-  <h2>Contato</h2>
 
-  <a target="_blank" href="https://www.linkedin.com/in/luis-guilherme-ferreira-505285b8/">
-    <img src="./assets/linkedin.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
+<a href="https://github.com/Becero?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Becero&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+</a>
 
-  <a target="_blank" href="mailto:guilherme.becel@gmail.com">
-    <img src="./assets/outlook.svg" width="40" height="40" alt="Email" />
-  </a>
+<a href="https://github.com/Becero?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Becero&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+</a>
 
-  <a target="_blank" href="https://www.instagram.com/luis_BECEL/">
-    <img src="./assets/instagram.svg" width="40" height="40" alt="Instagram" />
-  </a>
+</div>
 
-  <a target="_blank" href="https://Becero.github.io/">
-    <img src="./assets/website.svg" width="40" height="40" alt="Website" />
-  </a>
+---
+
+## Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Guilherme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-guilherme-ferreira-505285b8/)
+
+[![Email](https://img.shields.io/badge/Email-guilherme.becel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.becel@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-luis__BECEL-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis_BECEL/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Becero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Becero)
+
 </div>
