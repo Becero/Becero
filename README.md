@@ -98,13 +98,11 @@ Sistema web de gestão comercial desenvolvido com arquitetura multiempresa.
 
 <div align="center">
 
-<a href="https://github.com/Becero?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Becero&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
-</a>
+[![GitHub](https://img.shields.io/badge/Perfil-Becero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Becero)
+[![Repositórios](https://img.shields.io/badge/Repositórios-Ver_projetos-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Becero?tab=repositories)
 
-<a href="https://github.com/Becero?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Becero&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-</a>
+![Seguidores](https://img.shields.io/github/followers/Becero?style=for-the-badge&logo=github&label=Seguidores)
+![Stars](https://img.shields.io/github/stars/Becero?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars)
 
 </div>
 
